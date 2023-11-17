@@ -14,5 +14,25 @@
 	<Knecht>
 		<knechtText>Du bist kein knecht, sondern ein netter mensch. hahahahhahahahahahahaha</knechtText>
 	</Knecht>
-</wurzel>
 
+
+
+ ein netter mensch. hahahahhahahahahahahaha</knechtText>
+</Knecht>
+
+<test>
+	<nachricht>
+		<text>Thilo du hs.</text>
+	</nachricht>
+</test>
+
+<keinTest>
+	<KeineNachricht>
+		<keinText>Das ist kein ZWEITER Test!</keinText>
+	</KeineNachricht>
+</keinTest>
+<Knecht>
+	<knechtText>Du bist kein knecht, sondern ein netter mensch. hahahahhahahahahahahaha</knechtText>
+</Knech>
+<Neu>Das ist ein neuer Text</Neu>
+</wurzel>
