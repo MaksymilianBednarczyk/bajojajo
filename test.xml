@@ -4,3 +4,10 @@
 		<text>Das ist ein ZWEITER Test.</text>
 	</nachricht>
 </test>
+
+<keinTest>
+	<KeineNachricht>
+		<keinText>Das ist kein ZWEITER Test!</keinText>
+	</KeineNachricht>
+</keinTest>
+
