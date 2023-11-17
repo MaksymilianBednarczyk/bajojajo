@@ -4,3 +4,13 @@
 		<text>Thilo du hs.</text>
 	</nachricht>
 </test>
+
+<keinTest>
+	<KeineNachricht>
+		<keinText>Das ist kein ZWEITER Test!</keinText>
+	</KeineNachricht>
+</keinTest>
+<Knecht>
+	<knechtText>Du bist ein knecht!</knechtText>
+</Knecht>
+
