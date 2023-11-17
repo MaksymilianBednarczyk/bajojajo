@@ -1,16 +1,18 @@
+<?XML version="1.0" encoding="UTF-8">
+<wurzel>
+	<test>
+		<nachricht>
+			<text>Thilo du netter Mensch</text>
+		</nachricht>
+	</test>
 
-<test>
-	<nachricht>
-		<text>Thilo du netter Mensch</text>
-	</nachricht>
-</test>
-
-<keinTest>
-	<KeineNachricht>
-		<keinText>Das ist kein ZWEITER Test!</keinText>
-	</KeineNachricht>
-</keinTest>
-<Knecht>
-	<knechtText>Du bist kein knecht, sondern ein netter mensch. hahahahhahahahahahahaha</knechtText>
-</Knecht>
+	<keinTest>
+		<KeineNachricht>
+			<keinText>Das ist kein ZWEITER Test!</keinText>
+		</KeineNachricht>
+	</keinTest>
+	<Knecht>
+		<knechtText>Du bist kein knecht, sondern ein netter mensch. hahahahhahahahahahahaha</knechtText>
+	</Knecht>
+</wurzel>
 
